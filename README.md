@@ -1,4 +1,19 @@
-apex Kde Linux Gamer's Edition Minimal
+<p align="center">
+<img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">	
+
+
+
+<div align="center">
+
+ 
+##  [Sailing The 7 Seas](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
+
+<div align="center">
+
+
+
+
+Apex Kde Linux Gamer's Edition Minimal
 
 
 
