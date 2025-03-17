@@ -21,6 +21,7 @@ more photos coming
 
 ![WelcomeApp](https://github.com/user-attachments/assets/a79e1228-9cc8-4b2c-8a7a-d7badbf9a88d)
 ![Desktop](https://github.com/user-attachments/assets/21a898a6-1e51-4aa3-be5e-86849b4da652)
+![Apps](https://github.com/user-attachments/assets/41e961e2-b101-44a5-84de-0d7a745aa527)
 ![Dolphin](https://github.com/user-attachments/assets/0bf5a426-defe-4968-8ad6-f7e08f1586af)
 
 
