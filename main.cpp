@@ -42,9 +42,13 @@ public:
             "</span>"
             "</div>"
         ));
-        gifTextLabel->setAlignment(Qt::AlignCenter);
+        gifTextLabel->setAlignment(Qt::AlignTop | Qt::AlignHCenter); // Align to the top and center horizontally
 
+        // Add the GIF and text label to the layout
         layout->addWidget(gifTextLabel);
+
+        // Add a stretch to push the buttons to the bottom
+        layout->addStretch();
 
         // Buttons
         QPushButton *calamaresButton = new QPushButton("Install With Calamares", this);
