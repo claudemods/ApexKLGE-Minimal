@@ -1,7 +1,7 @@
-apex Kde Linux Gamer's Edition
+apex Kde Linux Gamer's Edition Minimal
 
-Minimal is being build now 
-Full will be coming soon
+
+
 more photos coming
 
 ![first](https://github.com/user-attachments/assets/21a898a6-1e51-4aa3-be5e-86849b4da652)
