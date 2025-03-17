@@ -15,9 +15,12 @@
 
 Apex Kde Linux Gamer's Edition Minimal
 
+<div align="center">
+Custom Built Elegantly Fast Arch Linux Distro With Arch Linux And Kde Linux Repos
+<div align="center">
+This Contain Kde Dev Packages From The Kde Linux Repos E.G https://cdn.kde.org/kde-linux/packaging/packages/
 
 
-more photos coming
 
 ![WelcomeApp](https://github.com/user-attachments/assets/a79e1228-9cc8-4b2c-8a7a-d7badbf9a88d)
 ![Desktop](https://github.com/user-attachments/assets/21a898a6-1e51-4aa3-be5e-86849b4da652)
