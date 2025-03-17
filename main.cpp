@@ -13,6 +13,7 @@
 #include <QNetworkReply>
 #include <QUrl>
 #include <QTemporaryFile>
+#include <QDebug>
 
 class MainWindow : public QWidget {
     Q_OBJECT
@@ -70,11 +71,35 @@ public:
 
 private slots:
     void runCalamares() {
-        QProcess::startDetached("pkexec calamares");
+        QProcess *process = new QProcess(this);
+        connect(process, QOverload<QProcess::ProcessError>::of(&QProcess::errorOccurred), this, [this, process](QProcess::ProcessError error) {
+            qDebug() << "Error occurred:" << error;
+            QMessageBox::warning(this, "Error", "Failed to start Calamares: " + process->errorString());
+            process->deleteLater();
+        });
+
+        connect(process, QOverload<int, QProcess::ExitStatus>::of(&QProcess::finished), this, [this, process](int exitCode, QProcess::ExitStatus exitStatus) {
+            qDebug() << "Calamares finished with exit code:" << exitCode;
+            process->deleteLater();
+        });
+
+        process->start("pkexec", QStringList() << "calamares");
     }
 
     void runApexInstaller() {
-        QProcess::startDetached("ApexInstaller");
+        QProcess *process = new QProcess(this);
+        connect(process, QOverload<QProcess::ProcessError>::of(&QProcess::errorOccurred), this, [this, process](QProcess::ProcessError error) {
+            qDebug() << "Error occurred:" << error;
+            QMessageBox::warning(this, "Error", "Failed to start Apex Installer: " + process->errorString());
+            process->deleteLater();
+        });
+
+        connect(process, QOverload<int, QProcess::ExitStatus>::of(&QProcess::finished), this, [this, process](int exitCode, QProcess::ExitStatus exitStatus) {
+            qDebug() << "Apex Installer finished with exit code:" << exitCode;
+            process->deleteLater();
+        });
+
+        process->start("ApexInstaller");
     }
 
     void downloadAndShowChangeLog() {
