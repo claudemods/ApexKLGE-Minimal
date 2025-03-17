@@ -52,18 +52,18 @@ public:
 
         // Buttons
         QPushButton *calamaresButton = new QPushButton("Install With Calamares", this);
-        calamaresButton->setStyleSheet("background-color: #00568f; color: gold; font-size: 16px;");
+        calamaresButton->setStyleSheet("background-color: #00568f; color: #24ffff; font-size: 16px;");
         connect(calamaresButton, &QPushButton::clicked, this, &MainWindow::runCalamares);
         layout->addWidget(calamaresButton);
 
         QPushButton *apexInstallerButton = new QPushButton("Install With Apex Arch Installer", this);
-        apexInstallerButton->setStyleSheet("background-color: #00568f; color: gold; font-size: 16px;");
+        apexInstallerButton->setStyleSheet("background-color: #00568f; color: #24ffff; font-size: 16px;");
         connect(apexInstallerButton, &QPushButton::clicked, this, &MainWindow::runApexInstaller);
         layout->addWidget(apexInstallerButton);
 
         // ChangeLog button
         QPushButton *changeLogButton = new QPushButton("ChangeLog", this);
-        changeLogButton->setStyleSheet("background-color: #00568f; color: gold; font-size: 16px;");
+        changeLogButton->setStyleSheet("background-color: #00568f; color: #24ffff; font-size: 16px;");
         connect(changeLogButton, &QPushButton::clicked, this, &MainWindow::downloadAndShowChangeLog);
         layout->addWidget(changeLogButton);
 
