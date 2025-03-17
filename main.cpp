@@ -32,12 +32,12 @@ public:
         // Main layout
         QVBoxLayout *layout = new QVBoxLayout(this);
 
-        // Group for image and text using a single QLabel with HTML
+        // GIF and text at the top
         QLabel *gifTextLabel = new QLabel(this);
         gifTextLabel->setText(QString(
             "<div style='text-align: center;'>"
             "<img src=':/images/apex.gif'><br/>" // Display the GIF
-            "<span style='color: gold; font-size: 20px; font-weight: bold; margin: 0; padding: 0;'>"
+            "<span style='color: #24ffff; font-size: 20px; font-weight: bold; margin: 0; padding: 0;'>"
             "Welcome To Apex KLGE Minimal v1.0"
             "</span>"
             "</div>"
@@ -47,7 +47,19 @@ public:
         // Add the GIF and text label to the layout
         layout->addWidget(gifTextLabel);
 
-        // Add a stretch to push the buttons to the bottom
+        // Add a stretch to push the logo to the center
+        layout->addStretch();
+
+        // Centered logo
+        QLabel *logoLabel = new QLabel(this);
+        QPixmap logoPixmap(":/images/logo.png"); // Load the logo image
+        logoLabel->setPixmap(logoPixmap.scaled(200, 200, Qt::KeepAspectRatio)); // Make the logo smaller
+        logoLabel->setAlignment(Qt::AlignCenter); // Center the logo
+
+        // Add the logo to the layout
+        layout->addWidget(logoLabel);
+
+        // Add another stretch to push the buttons to the bottom
         layout->addStretch();
 
         // Buttons
@@ -147,7 +159,7 @@ private slots:
         QTextEdit *textEdit = new QTextEdit();
         textEdit->setPlainText(changeLogText);
         textEdit->setReadOnly(true);
-        textEdit->setStyleSheet("background-color: #00568f; color: gold; font-size: 14px;");
+        textEdit->setStyleSheet("background-color: #00568f; color: #24ffff; font-size: 14px;");
 
         // Create a layout and add the QTextEdit
         QVBoxLayout *layout = new QVBoxLayout();
