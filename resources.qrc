@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>images/apex.gif</file>
+        <file>images/logo.png</file>
     </qresource>
 </RCC>
