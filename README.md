@@ -18,6 +18,10 @@ Apex Kde Linux Gamer's Edition Minimal
 <div align="center">
 Custom Built Elegantly Fast Arch Linux Distro With Arch Linux And Kde Linux Repos
 <div align="center">
+ Lets Not Forget My Custom Made Taskbar it Was The First Thing i Ever Made On Linux 
+<div align="center">
+Let My Custom Made Taskbar Continue its Voyage
+<div align="center">
 This Contains Kde Dev Packages From The Kde Linux Repos 
  <div align="center">
  E.G https://cdn.kde.org/kde-linux/packaging/packages/
