@@ -13,7 +13,7 @@
 
 
 
-Apex Kde Linux Gamer's Edition Minimal
+Apex CachyOS Kde Gamer's Edition
 
 <div align="center">
 Custom Built Elegantly Fast Forks Of CachyOS 
