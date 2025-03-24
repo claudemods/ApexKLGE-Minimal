@@ -11,7 +11,7 @@
 <div align="center">
 
 
-# 🕹️ APEX KDE LINUX GAMER'S EDITION  
+# 🎮 APEX KDE LINUX GAMER'S EDITION  
 ### *Apex KLGE Minimal Built To Last*  
 
 <div align="center">  
@@ -31,9 +31,9 @@ Powered by Arch Linux, AUR and official KDE repositories
 ---
 
 ### 🔧 CORE COMPONENTS  
-- **Custom Applications** 
-- **Latest KDE Development Packages**  
-- **Minimal Base System**  
+ **Custom Applications** 
+ **Latest KDE Development Packages**  
+ **Minimal Base System**  
 
 # Official KDE Linux Packaging Repositories  
 https://cdn.kde.org/kde-linux/packaging/packages/  
