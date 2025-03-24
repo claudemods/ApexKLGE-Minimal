@@ -20,11 +20,8 @@
 
 <div align="center" style="margin-top: 15px;">
   <strong>✨ Let's Not Forget My Custom Made Taskbar</strong><br>
+   <strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong>
   <em>It Was The First Thing I Ever Made On Linux</em>
-</div>
-
-<div align="center">
-  <strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong>
 </div>
 
 <div align="center" style="margin-top: 15px;">
