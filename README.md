@@ -11,24 +11,32 @@
 <div align="center">
 
 
-# 🕹️ Apex KDE Linux Gamer's Edition Minimal
+# 🕹️ APEX KDE LINUX GAMER'S EDITION  
+### *Apex KLGE Minimal Built To Last*  
 
-<div align="center">
-  <strong>Custom Built Arch Linux Distro</strong><br>
-  With Arch Linux, Aur And KDE Linux Repos
-</div>
+<div align="center">  
+<strong>Custom Built Arch Linux Distro</strong><br>  
+Powered by Arch Linux, AUR and official KDE repositories  
+</div>  
 
-<div align="center" style="margin-top: 15px;">
-  <strong>✨ Let's Not Forget My Custom Made Taskbar</strong><br>
-   <strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong>
-  <em>It Was The First Thing I Ever Made On Linux</em>
-</div>
+---
 
-<div align="center" style="margin-top: 15px;">
-  </strong>🔧 This Contains KDE Dev Packages From The KDE Linux Repos</strong><br>
-  <code>E.G https://cdn.kde.org/kde-linux/packaging/packages/</code>
-</div>
+### ✨ Built From Original Tweaks
+<div align="center" style="margin: 1em 0;">  
+<strong>✨ Let's Not Forget My Custom Made Taskbar</strong><br>  
+<strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong><br>  
+<em>It Was The First Thing I Ever Made On Linux</em>  
+</div>  
 
+---
+
+### 🔧 CORE COMPONENTS  
+- **Custom Applications** 
+- **Latest KDE Development Packages**  
+- **Minimal Base System**  
+
+# Official KDE Linux Packaging Repositories  
+https://cdn.kde.org/kde-linux/packaging/packages/  
 
 
 ![WelcomeApp](https://github.com/user-attachments/assets/a79e1228-9cc8-4b2c-8a7a-d7badbf9a88d)
