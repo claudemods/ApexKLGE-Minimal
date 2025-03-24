@@ -11,7 +11,7 @@
 <div align="center">
 
 
-# 🎮 APEX KDE LINUX GAMER'S EDITION  
+# APEX KDE LINUX GAMER'S EDITION 🎮  
 ### *Apex KLGE Minimal Built To Last*  
 
 <div align="center">  
@@ -21,10 +21,10 @@ Powered by Arch Linux, AUR and official KDE repositories
 
 ---
 
-### ✨ Built From Original Tweaks
+### Built From Original Tweaks ✨
 <div align="center" style="margin: 1em 0;">  
-<strong>✨ Let's Not Forget My Custom Made Taskbar</strong><br>  
-<strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong><br>  
+<strong> Let's Not Forget My Custom Made Taskbar✨</strong><br>  
+<strong> Let My Custom Made Taskbar Continue Its Voyage🚢</strong><br>  
 <strong>It Was The First Thing I Ever Made On Linux<strong>
 </div>  
 
