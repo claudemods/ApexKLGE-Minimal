@@ -31,11 +31,12 @@ Powered by Arch Linux, AUR and official KDE repositories
 ---
 
 ### 🔧 CORE COMPONENTS  
-**Custom Applications** 
+**Custom Applications
 **Latest KDE Development Packages**  
 **Minimal Base System**  
-
-# Official KDE Linux Packaging Repositories  
+<strong>Latest KDE Development Packages</strong><br> 
+<strong>Minimal Base System</strong><br> 
+<strong>Official KDE Linux Packaging Repositories+</strong><br> 
 https://cdn.kde.org/kde-linux/packaging/packages/  
 
 
