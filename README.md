@@ -11,20 +11,26 @@
 <div align="center">
 
 
-
-
-Apex Kde Linux Gamer's Edition Minimal
+# 🕹️ Apex KDE Linux Gamer's Edition Minimal
 
 <div align="center">
-Custom Built Elegantly Fast Arch Linux Distro With Arch Linux And Kde Linux Repos
+  <strong>Custom Built Arch Linux Distro</strong><br>
+  With Arch Linux, Aur And KDE Linux Repos
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <strong>✨ Let's Not Forget My Custom Made Taskbar</strong><br>
+  <em>It Was The First Thing I Ever Made On Linux</em>
+</div>
+
 <div align="center">
- Lets Not Forget My Custom Made Taskbar it Was The First Thing i Ever Made On Linux 
-<div align="center">
-Let My Custom Made Taskbar Continue its Voyage
-<div align="center">
-This Contains Kde Dev Packages From The Kde Linux Repos 
- <div align="center">
- E.G https://cdn.kde.org/kde-linux/packaging/packages/
+  <strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  </strong>🔧 This Contains KDE Dev Packages From The KDE Linux Repos</strong><br>
+  <code>E.G https://cdn.kde.org/kde-linux/packaging/packages/</code>
+</div>
 
 
 
