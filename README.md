@@ -25,15 +25,12 @@ Powered by Arch Linux, AUR and official KDE repositories
 <div align="center" style="margin: 1em 0;">  
 <strong>✨ Let's Not Forget My Custom Made Taskbar</strong><br>  
 <strong>🚀 Let My Custom Made Taskbar Continue Its Voyage</strong><br>  
-<em>It Was The First Thing I Ever Made On Linux</em>  
+<strong>It Was The First Thing I Ever Made On Linux<strong>
 </div>  
 
 ---
 
 ### 🔧 CORE COMPONENTS  
-** Custom Applications
-** Latest KDE Development Packages **  
-** Minimal Base System **  
 <strong>Latest KDE Development Packages</strong><br> 
 <strong>Minimal Base System</strong><br> 
 <strong>Official KDE Linux Packaging Repositories+</strong><br> 
